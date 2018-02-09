@@ -42,7 +42,3 @@
 #
 # Copyright 2018 Your name here, unless otherwise noted.
 #
-class servidor_controle_remoto_ir {
-
-
-}

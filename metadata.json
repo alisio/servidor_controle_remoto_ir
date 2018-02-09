@@ -1,5 +1,5 @@
 {
-  "name": "alisio-servidor_controle_remoto_ir",
+  "name": "servidor_controle_remoto_ir",
   "version": "0.1.0",
   "author": "Antonio Alisio de Meneses Cordeiro",
   "summary": "Configure raspberry pi as a lirc server, with installed emitter and transmitter",
@@ -12,4 +12,3 @@
   ],
   "data_provider": null
 }
-
